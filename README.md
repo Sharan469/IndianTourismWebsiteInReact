@@ -31,6 +31,5 @@ Explorer Page
 ![](src/components/images/Capture2.JPG)
 
 
-Northern Places
 
 ![](src/components/images/Capture4.JPG)
